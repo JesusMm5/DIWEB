@@ -1,0 +1,13 @@
+@font-face {src: local(); font-family: 'Times New Roman', Times, serif;}
+
+p {
+    color: black;
+    display: -webkit-flex;
+    display: flex;
+}
+
+a {
+    color: #000;
+}
+
+#ab { color:red}
