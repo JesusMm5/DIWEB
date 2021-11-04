@@ -1,0 +1,42 @@
+body{
+    background-color: #EEEEEE;
+    font-family: sans-serif;
+    text-align: justify;
+    color: black;
+}
+h1{
+    color: #333333;
+    text-transform: uppercase;
+    font-size: 200%;
+    text-align: center;
+}
+h2{
+    color: #FF0000;
+    background-color: #888888;
+    font-size: 150%;
+    text-transform: capitalize;
+}
+h3{
+    background-color:#AAAAAA;
+    color:#8B008B;
+    font-size: 130%;
+}
+p{
+    background-color: #CCCCCC;
+    line-height: 150%;
+}
+strong{
+    color: #428000;
+    font-weight: normal;
+}
+em{
+    color: #0000FF;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: underline;
+}
+address{
+    background-color: white;
+    text-align: right;
+    font-style: normal;
+}
