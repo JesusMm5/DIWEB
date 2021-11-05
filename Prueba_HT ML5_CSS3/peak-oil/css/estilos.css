@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(177, 175, 175);
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+}
+
+p.enlace {
+    clear: right;
+    background-color: white;
+    float: left;
+    margin-right: 4%;
+    margin-bottom: 120%;
+    border: lightgray 3px solid;
+    padding: 5px 8px 0px 8px;
+}
+
+h2 {
+    background-color: gray;
+    color: white;
+    margin-left: 10%;
+    border: gray 5px solid;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+h3 {
+    color: white;
+    background-color: rgb(209, 207, 207);
+    margin-left: 12%;
+    margin-right: 2%;
+}
+
+p.h2 {
+    text-indent: 40px;
+    text-align: justify;
+    margin-left: 12%;
+}
+
+p.h3 {
+    text-indent: 40px;
+    text-align: justify;
+    margin-left: 14%;
+}
+
+hr {
+    text-align: center;
+    width: 50%;
+    border: gold 3px solid;
+}
+
+p.img {
+    text-align: center;
+    margin-left: 12%;
+}
+
+address {
+    background-color: yellow;
+    margin-left: 10%;
+}
