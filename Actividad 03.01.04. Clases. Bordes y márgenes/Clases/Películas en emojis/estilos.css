@@ -1,0 +1,23 @@
+body{
+    background-color: #FFEACC;
+    font-family: sans-serif;
+}
+h1{
+    color: #995900;
+    text-transform: uppercase;
+}
+p{
+    font-size: 2rem;
+}
+p.intro{
+    color:#FF9500;
+}
+summary{
+    font-size: 4rem;
+}
+span.par{
+    background-color: #FFFFFF;
+}
+span.impar{
+    background-color: #FFCCEA;
+}
