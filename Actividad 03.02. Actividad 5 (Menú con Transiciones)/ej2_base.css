@@ -1,0 +1,42 @@
+li{
+  list-style: none;
+}
+a.menu{
+  background-color: black;
+  color: #ffffff;
+  padding: 10px 20px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 70px;
+  float: left;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+a.menu.servicios{
+  border-top: #FFC000 5px solid;
+  transition: background-color 1s linear;
+}
+a.menu.servicios:hover{
+  background-color: #FFC000;
+}
+a.menu.proyectos{
+  border-top: green 5px solid;
+  transition: background-color 1s linear;
+}
+a.menu.proyectos:hover{
+  background-color: green;
+}
+a.menu.recursos{
+  border-top: red 5px solid;
+  transition: background-color 1s linear;
+}
+a.menu.recursos:hover{
+  background-color: red;
+}
+a.menu.contacto{
+  border-top: purple 5px solid;
+  transition: background-color 1s linear;
+}
+a.menu.contacto:hover{
+  background-color: purple;
+}
